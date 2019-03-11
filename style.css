@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+h1 {
+	font-size: x-large;
+	font-style: italic;
+	text-transform: uppercase;
+	color: rgb(155, 71, 71);
+
+}
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	background-image: linear-gradient(rgb(226, 183, 183), white);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: rgb(51, 33, 30);
+	padding: 50px
+}
+
+#bottom {
+	text-align: right;
+}
+
